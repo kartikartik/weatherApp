@@ -66,5 +66,11 @@ Programming Language: Dart
 ● for date/time conversion: intl
 
 
+## Screenshots of the application 📷
 
+![LightMode](https://github.com/kartikartik/weatherApp/blob/main/1.jpeg)
+![LightMode](https://github.com/kartikartik/weatherApp/blob/main/2.jpeg)
+![LightMode](https://github.com/kartikartik/weatherApp/blob/main/3.jpeg)
+![LightMode](https://github.com/kartikartik/weatherApp/blob/main/4.jpeg)
+![LightMode](https://github.com/kartikartik/weatherApp/blob/main/5.jpeg)
 
