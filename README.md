@@ -1,6 +1,9 @@
 # Weather App Using BLoC with Clean Architecture
 This is a Flutter built using the BLoC pattern and Clean Architecture. The app includes features such as current Weather, search location . It uses http for getting api data. GetIt is used for dependency injection.
 
+# Note : This project created on windows machine so might get issue in Mac OS due to Platform reason
+
+
 ## Features
 
 ## Landing Screen
